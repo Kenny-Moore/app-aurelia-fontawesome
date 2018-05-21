@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>metacafe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="metacafe" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-9" fill="#F58426" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <g id="Shape-+-Shape" transform="translate(8.333333, 8.333333)" sketch:type="MSShapeGroup">
+                <path d="M39.3142679,43.8787654 L36.8876012,36.3344444 L43.2405919,31.6728164 L35.3875389,31.6728164 L32.9600623,24.1280864 L30.5338006,31.6728164 L22.6791277,31.6728164 L29.0325234,36.3344444 L26.6062617,43.8787654 L32.9600623,39.2163194 L39.3142679,43.8787654 Z" id="Shape" fill="#E52012"></path>
+                <path d="M27.2842056,36.9478704 C25.947757,35.9684336 17.9837383,30.1237114 17.9837383,30.1237114 L29.4816511,30.1237114 C29.9927414,28.5361651 33.0337695,19.079591 33.0337695,19.079591 C33.0337695,19.079591 36.0776324,28.5361651 36.5883178,30.1237114 L42.7278816,30.1237114 L33.0341745,-3.55271368e-15 L25.2366044,24.2385031 L3.55271368e-15,24.2385031 L25.3625545,42.9238657 C26.1745483,40.4018673 27.0347352,37.7273302 27.2842056,36.9478704 L27.2842056,36.9478704 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

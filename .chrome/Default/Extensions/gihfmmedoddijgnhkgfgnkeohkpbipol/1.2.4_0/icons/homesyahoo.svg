@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>homesyahoo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="homesyahoo" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-2-Copy-7" fill="#510098" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <g id="Imported-Layers-Copy-8" transform="translate(15.000000, 15.000000)" sketch:type="MSShapeGroup">
+                <path d="M0.0163809524,13.4777143 L15.2544762,0.0163809524 L29.9851429,14.2380952" id="Stroke-1" stroke="#FFFFFF" stroke-width="1.518"></path>
+                <path d="M9.66666667,24.9047619 L20.3333333,24.9047619 L20.3333333,29.4761905 L9.66666667,29.4761905 L9.66666667,24.9047619 Z" id="Fill-2" fill="#FFFFFF"></path>
+                <path d="M15.2544762,3.69942857 L3.57142857,14.3020952 L3.57142857,24.9047619 L9.66666667,24.9047619 L9.66666667,14.2380952 L14.2380952,14.2380952 L14.2380952,24.9047619 L15.7619048,24.9047619 L15.7619048,14.2380952 L20.3333333,14.2380952 L20.3333333,24.9047619 L26.4285714,24.9047619 L26.4285714,14.2380952 L15.2544762,3.69942857" id="Fill-3" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

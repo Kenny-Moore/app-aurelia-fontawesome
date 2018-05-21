@@ -1,0 +1,486 @@
+{
+   "blowing_snow_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Blowing Snow"
+   },
+   "blustery_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Blustery"
+   },
+   "clear_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Clear"
+   },
+   "cloudy_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Cloudy"
+   },
+   "cold_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Cold"
+   },
+   "drizzle_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Drizzle"
+   },
+   "dust_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Dust"
+   },
+   "fair_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Fair"
+   },
+   "foggy_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Foggy"
+   },
+   "freezing_drizzle_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Freezing Drizzle"
+   },
+   "freezing_rain_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Freezing Rain"
+   },
+   "hail_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Hail"
+   },
+   "haze_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Haze"
+   },
+   "heavy_snow_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Heavy Snow"
+   },
+   "hot_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Hot"
+   },
+   "hurricane_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Hurricane"
+   },
+   "isolated_thundershowers_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Isolated Thundershowers"
+   },
+   "isolated_thunderstorms_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Isolated Thunderstorms"
+   },
+   "light_snow_showers_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Light Snow Showers"
+   },
+   "mixed_rain_and_hail_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Mixed Rain and Hail"
+   },
+   "mixed_rain_and_sleet_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Mixed Rain and Sleet"
+   },
+   "mixed_rain_and_snow_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Mixed Rain and Snow"
+   },
+   "mixed_snow_and_sleet_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Mixed Snow and Sleet"
+   },
+   "mostly_cloudy_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Mostly Cloudy"
+   },
+   "newtab_add_symbol_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Add symbol"
+   },
+   "newtab_bn_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Breaking news"
+   },
+   "newtab_cancel_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Cancel"
+   },
+   "newtab_chrome_extension_description": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "This extension sets your search engine to Yahoo and customizes your new tab page with Flickr photos and access to your top sites"
+   },
+   "newtab_chrome_extension_hide_bookmarks": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Hide Bookmarks"
+   },
+   "newtab_chrome_extension_name": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Search and New Tab by Yahoo"
+   },
+   "newtab_chrome_extension_other_bookmarks": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Other Bookmarks"
+   },
+   "newtab_chrome_extension_show_bookmarks": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Show Bookmarks"
+   },
+   "newtab_chrome_finance_extension_description": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "This Yahoo Finance extension customizes your new tab page with real-time quotes and the latest news on your favorite stocks."
+   },
+   "newtab_chrome_finance_extension_name": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Yahoo Finance New Tab"
+   },
+   "newtab_chrome_no_search_extension_description": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Each new browser tab opens with fresh Flickr photos from around the web, a powerful Yahoo search box and links to your recent sites."
+   },
+   "newtab_chrome_no_search_extension_name": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Yahoo’s Gorgeous New Tab"
+   },
+   "newtab_chrome_search_finance_extension_description": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "This extension customizes your new tab page with latest stock quotes & finance news and sets Yahoo as your default search engine."
+   },
+   "newtab_chrome_sports_extension_description": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "This Yahoo Sports extension customizes your new tab page with real-time scoreboard and the latest news on the trending games at your location."
+   },
+   "newtab_chrome_sports_extension_name": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Yahoo Sports New Tab"
+   },
+   "newtab_default_watchlist_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Default watchlist"
+   },
+   "newtab_extension_add_title": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Add Favorite title"
+   },
+   "newtab_extension_add_url": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Add Favorite URL"
+   },
+   "newtab_extension_cancel": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Cancel"
+   },
+   "newtab_extension_chrome_protect_1": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "We don't want to lose you!"
+   },
+   "newtab_extension_chrome_protect_2": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "We just met! Click on \"Keep changes\" to continue with Yahoo's gorgeous new tab experience."
+   },
+   "newtab_extension_done_settings_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Done"
+   },
+   "newtab_extension_edit_settings_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Edit Favorites"
+   },
+   "newtab_extension_enter_title": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Please enter a title"
+   },
+   "newtab_extension_enter_url": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Please enter an URL"
+   },
+   "newtab_extension_feedback": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Feedback"
+   },
+   "newtab_extension_feedback_link": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "https://yahoo.uservoice.com/forums/584500-search-extensions"
+   },
+   "newtab_extension_feedback_link_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Feedback"
+   },
+   "newtab_extension_first_tab_prompt_details": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "We just met! Click on \"Keep changes\" to continue with Yahoo's gorgeous new tab experience."
+   },
+   "newtab_extension_first_tab_prompt_title": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "We don't want to lose you!"
+   },
+   "newtab_extension_hide_bn": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Disable Breaking News"
+   },
+   "newtab_extension_hide_tn": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Hide Trending Now"
+   },
+   "newtab_extension_hide_wthr": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Hide Weather"
+   },
+   "newtab_extension_homepage_url": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "https://www.yahoo.com/"
+   },
+   "newtab_extension_keep_current": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Keep current search engine"
+   },
+   "newtab_extension_ok": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "OK"
+   },
+   "newtab_extension_on_flickr": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "on"
+   },
+   "newtab_extension_options": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Options"
+   },
+   "newtab_extension_page_focus_address_bar": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Focus in address bar"
+   },
+   "newtab_extension_page_focus_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Page focus"
+   },
+   "newtab_extension_page_focus_search_box": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Focus in new tab search box"
+   },
+   "newtab_extension_photo_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "{PHOTO_TITLE} by {PHOTO_OWNER}"
+   },
+   "newtab_extension_privacy": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Privacy"
+   },
+   "newtab_extension_privacy_updated_1": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Privacy"
+   },
+   "newtab_extension_privacy_updated_2": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "updated"
+   },
+   "newtab_extension_prompt_search": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Do you want to change your search engine to Yahoo?"
+   },
+   "newtab_extension_quick_search_checkbox": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Enable Quick Search lookup"
+   },
+   "newtab_extension_quick_search_checkbox_details": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Changes will take effect once the web pages are reloaded"
+   },
+   "newtab_extension_quick_search_description_1": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Highlight any text or phrase on the page and search the web with a single click."
+   },
+   "newtab_extension_quick_search_description_2": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "To disable this feature, click the Y icon on the browser toolbar and select from the options."
+   },
+   "newtab_extension_quick_search_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Quick Search"
+   },
+   "newtab_extension_quick_search_prompt": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Yahoo Quick Search is now enabled."
+   },
+   "newtab_extension_search_box_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Search"
+   },
+   "newtab_extension_search_prov_domain": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "search.yahoo.com"
+   },
+   "newtab_extension_search_prov_name": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Yahoo Partner"
+   },
+   "newtab_extension_search_prov_path": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "search"
+   },
+   "newtab_extension_search_suggest_domain": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "search.yahoo.com"
+   },
+   "newtab_extension_search_suggest_path": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "sugg/ie?output=fxjson&command={searchTerms}&nResults="
+   },
+   "newtab_extension_show_Cel": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Convert to Celsius"
+   },
+   "newtab_extension_show_bn": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Enable Breaking News"
+   },
+   "newtab_extension_show_fah": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Convert to Fahrenheit"
+   },
+   "newtab_extension_show_image": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Hide Search"
+   },
+   "newtab_extension_show_tn": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Show Trending Now"
+   },
+   "newtab_extension_show_topsites": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Show Search"
+   },
+   "newtab_extension_show_wthr": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Show Weather"
+   },
+   "newtab_extension_tab_title": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "New Tab by Yahoo"
+   },
+   "newtab_extension_terms_updated_1": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Terms"
+   },
+   "newtab_extension_terms_updated_2": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "updated"
+   },
+   "newtab_extension_trending_now_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Trending Now"
+   },
+   "newtab_feedback_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Feedback"
+   },
+   "newtab_finance_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Finance"
+   },
+   "newtab_gdpr_popup_privacy_url": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "https://policies.oath.com/us/en/oath/privacy/index.html"
+   },
+   "newtab_gdpr_popup_tos_url": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "https://policies.oath.com/us/en/oath/terms/otos/index.html"
+   },
+   "newtab_more_news_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "More news"
+   },
+   "newtab_more_standings_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "More standings"
+   },
+   "newtab_news_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "News"
+   },
+   "newtab_no_games_live_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "No games are live now"
+   },
+   "newtab_search_stocks_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Search stocks"
+   },
+   "newtab_sports_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Sports"
+   },
+   "newtab_terms_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Terms"
+   },
+   "partly_cloudy_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Partly Cloudy"
+   },
+   "scattered_showers_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Scattered Showers"
+   },
+   "scattered_snow_showers_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Scattered Snow Showers"
+   },
+   "scattered_thunderstorms_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Scattered Thunderstorms"
+   },
+   "severe_thunderstorms_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Severe Thunderstorms"
+   },
+   "showers_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Showers"
+   },
+   "sleet_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Sleet"
+   },
+   "smoky_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Smoky"
+   },
+   "snow_flurries_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Snow Flurries"
+   },
+   "snow_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Snow"
+   },
+   "snow_showers_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Snow Showers"
+   },
+   "sunny_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Sunny"
+   },
+   "thundershowers_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Thundershowers"
+   },
+   "thunderstorms_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Thunderstorms"
+   },
+   "tornado_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Tornado"
+   },
+   "tropical_storm_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Tropical Storm"
+   },
+   "windy_label": {
+      "description": "This file was built by gulp.js and there are no descriptions in the source files for translations that are easily accessible.",
+      "message": "Windy"
+   }
+}

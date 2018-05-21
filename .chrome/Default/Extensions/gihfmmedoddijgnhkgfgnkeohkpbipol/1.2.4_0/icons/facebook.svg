@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>fb</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="fb" sketch:type="MSLayerGroup">
+            <rect id="circle" fill="#3C5A96" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <path d="M32.1759828,44.5 L32.1759828,31.2718153 L36.4792003,31.2718153 L37.1234673,26.1164645 L32.1759828,26.1164645 L32.1759828,22.8250009 C32.1759828,21.3324065 32.5776263,20.3152871 34.6520818,20.3152871 L37.2978685,20.3140072 L37.2978685,15.7031167 C36.8400345,15.6404027 35.2696801,15.5 33.4425616,15.5 C29.6279401,15.5 27.0163887,17.90246 27.0163887,22.3145853 L27.0163887,26.1164645 L22.7021315,26.1164645 L22.7021315,31.2718153 L27.0163887,31.2718153 L27.0163887,44.5 L32.1759828,44.5 L32.1759828,44.5 Z" id="facebook" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>techcrunch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="techcrunch" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-9" fill="#1C9B48" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="30"></rect>
+            <path d="M51.6666667,33.6110956 L51.6666667,40.8333333 L37.2222378,40.8333333 L30,40.8333333 L30,26.3888578 L37.2222378,26.3888578 L37.2222378,33.6110956 L51.6666667,33.6110956 L51.6666667,33.6110956 Z M22.7777622,40.8333333 L15.5555245,40.8333333 L15.5555245,26.3888578 L8.33333333,26.3888578 L8.33333333,19.1666667 L30,19.1666667 L30,26.3889044 L22.7777622,26.3889044 L22.7777622,40.8333333 L22.7777622,40.8333333 Z M51.6666667,19.1666667 L51.6666667,26.3889044 L37.2222378,26.3889044 L37.2222378,19.1666667 L51.6666667,19.1666667 L51.6666667,19.1666667 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

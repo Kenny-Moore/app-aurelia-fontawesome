@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>gmail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="17.992093%" y1="50.0087129%" x2="81.8861979%" y2="50.0087129%" id="linearGradient-1">
+            <stop stop-color="#F8F6EF" offset="0%"></stop>
+            <stop stop-color="#E7E4D6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="gmail" sketch:type="MSLayerGroup">
+            <rect id="circle" fill="#EEEEEE" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <g id="logo" transform="translate(14.000000, 18.395604)" sketch:type="MSShapeGroup">
+                <path d="M29.378139,0 C30.8201162,0 32,1.17812871 32,2.61799151 L32,3.37694531 L28.3574058,5.97509407 L15.9563219,14.5050732 L3.55523814,5.88856668 L3.55523814,22.2548796 L3.55523814,23.1208791 L2.62186095,23.1208791 C1.17988379,23.1208791 0,21.9427754 0,20.5029126 L0,2.61871716 C-3.11597623e-16,1.17882934 1.17988379,0.000700626635 2.62186095,0.000700626635 L15.9563219,9.87265502 L29.3774123,0.000700626635 L29.378139,0 L29.378139,0 Z" id="Shape" fill="#E75A4D"></path>
+                <path d="M2.63736264,0 L15.9563726,9.84615385 L29.3626374,0 L2.63736264,0 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M3.51648352,5.89010989 L3.51648352,23.1208791 L28.3076923,23.1208791 L28.3076923,5.97662953 L15.9117372,14.5058448 L3.51648352,5.89010989 Z" id="Shape" fill="#E7E4D7"></path>
+                <path d="M3.51648352,23.2087912 L15.9120879,14.5453992 L15.8559803,14.5054945 L3.51648352,23.0183759 L3.51648352,23.2087912 Z" id="Shape" fill="#B8B7AE"></path>
+                <path d="M28.3006082,5.97802198 L28.3076923,23.1208791 L15.9120879,14.5065445 L28.3006082,5.97802198 Z" id="Shape" fill="#B7B6AD"></path>
+                <path d="M31.9078766,3.34136125 L31.9120879,20.5008872 C31.8503062,22.4081362 31.0336431,23.0888919 28.3147028,23.1208791 L28.3076923,5.94357976 L31.9085703,3.34065934 L31.9078766,3.34136125 L31.9078766,3.34136125 Z" id="Shape" fill="#B2392F"></path>
+                <path d="M2.63736264,0 L15.9563726,9.84615385 L29.3626374,0 L2.63736264,0 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M2.63736264,0 L15.9563726,9.84615385 L29.3626374,0 L2.63736264,0 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M2.63736264,0 L15.9563726,9.84615385 L29.3626374,0 L2.63736264,0 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M2.63736264,0 L15.9563726,9.84615385 L29.3626374,0 L2.63736264,0 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M2.63736264,0 L15.9563726,9.84615385 L29.3626374,0 L2.63736264,0 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M2.63736264,0 L15.9563726,9.84615385 L29.3626374,0 L2.63736264,0 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M2.63736264,0 L15.9563726,9.84615385 L29.3626374,0 L2.63736264,0 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M2.63736264,0 L15.9563726,9.84615385 L29.3626374,0 L2.63736264,0 Z" id="Shape" fill="#F7F5ED"></path>
+            </g>
+        </g>
+    </g>
+</svg>

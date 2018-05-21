@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>screenyahoo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="screenyahoo" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-2-Copy-7" fill="#510098" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <path d="M29.8125,15 C21.633,15 15,21.633 15,29.8125 C15,37.992 21.633,44.625 29.8125,44.625 C37.992,44.625 44.625,37.992 44.625,29.8125 C44.625,21.633 37.992,15 29.8125,15 M25.2795,38.3925 L25.2795,21.231 L37.8195,29.8095 L25.2795,38.3925" id="Imported-Layers-Copy-11" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>sportsyahoo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="sportsyahoo" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-2-Copy-7" fill="#510098" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <g id="Imported-Layers-Copy-4" transform="translate(15.000000, 15.000000)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                <path d="M16.709,22.28125 L16.709,31 C19.5207,30.7799 22.1898,29.8096 24.4838,28.17745 C23.1384,24.9581 20.1593,22.7044 16.709,22.28125" id="Fill-1"></path>
+                <path d="M24.55665,2.914 C22.2518,1.2462 19.5517,0.2604 16.709,0.0372 L16.709,8.99775 C20.243,8.56065 23.25155,6.23255 24.55665,2.914" id="Fill-2"></path>
+                <path d="M16.709,19.76095 C20.88625,20.1686 24.61555,22.7447 26.4802,26.48795 C29.08265,23.8793 30.6528,20.48635 30.95815,16.8175 L16.709,16.8175 L16.709,19.76095" id="Fill-3"></path>
+                <path d="M26.5546,4.62365 C24.7163,8.4599 20.95755,11.09645 16.709,11.51185 L16.709,14.31115 L30.96435,14.31115 C30.68225,10.6423 29.13535,7.24315 26.5546,4.62365" id="Fill-4"></path>
+                <path d="M6.5534,28.22705 C8.81175,29.82045 11.44055,30.7706 14.2042,30.99535 L14.2042,22.2952 C10.79885,22.7664 7.8616,25.03715 6.5534,28.22705" id="Fill-5"></path>
+                <path d="M14.2042,8.97915 L14.2042,0.04185 C11.40955,0.26815 8.75285,1.23845 6.479,2.86595 C7.75155,6.1597 10.7167,8.49865 14.2042,8.97915" id="Fill-6"></path>
+                <path d="M4.5477,26.54685 C6.3891,22.7664 10.00525,20.2244 14.2042,19.77335 L14.2042,16.81595 L0.0062,16.81595 C0.3131,20.51735 1.90805,23.932 4.5477,26.54685" id="Fill-7"></path>
+                <path d="M4.47795,4.55855 C1.85225,7.1889 0.2821,10.60975 0,14.31425 L14.20575,14.31425 L14.20575,11.49945 C9.99595,11.0422 6.27905,8.3824 4.47795,4.55855" id="Fill-8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

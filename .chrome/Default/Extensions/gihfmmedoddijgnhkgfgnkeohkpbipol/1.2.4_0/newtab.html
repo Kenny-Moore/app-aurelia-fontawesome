@@ -1,0 +1,83 @@
+<html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <link rel="stylesheet" type="text/css" href="newtab.css">
+    <link rel="stylesheet" type="text/css" href="brand.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="lib/bootstrap.min.css">
+    <script src="lib/jquery.min.js"></script>
+    <script src="lib/bootstrap.min.js"></script>
+    ,
+</head>
+<body id="bg" class="flexContainer bgImage">
+<div id="bookmarksAbsolute">
+    <div id="bookmarksFlex" class="uiBG"></div>
+</div>
+
+<div id="topBar">
+    <div id="searchTrendingNowContainer"></div>
+</div>
+
+<div id="rightPanelBlur" class="bgImage"></div>
+
+<div id="mainContainer">
+    <div id="uiBlur"></div>
+    <div id="uiContainer">
+        <form id="submitSearchNew">
+            <img id="magnifierNew" src="icons/mag3.svg">
+            <input type="text" id="searchBoxNew" autocomplete="off" name="p" tabindex="1" autofocus>
+        </form>
+        <div id="searchSuggestContainerNew" class="searchSuggestContainerNew displayNone"></div>
+    </div>
+    <div id="urlHidden"><span id="urlContent"></span></div>
+</div>
+
+<div id="darkOverlay"></div>
+<div id="pageFooter">
+    <div id="addFavoriteUrl" class="displayNone"><input type="text" id="favoriteUrl" name="favorite" /><span class="addSign">+</span></div>
+    <div id="addFavoriteTitle" class="displayNone"><input type="text" id="favoriteTitle" name="title" /><span id="addIcon" class="addSign">+</span></div>
+    <div id="ownerContainer">
+        <a id="ownerName" class="credit"></a>
+        <a id="onFlickr" class="credit flickr"></a>
+    </div>
+
+    <div class="newTopSitesContainer" id="topSites"></div>
+
+    <div id="urlInfo"></div>
+    <!--weather-->
+    <div  id="weatherInfo" class="displayNone">
+          <span id="location"></span>
+          <a id="wthrattr" href="https://www.yahoo.com/news/weather/">
+              <span id="imgDesc" class="condImg"></span>
+              <span id="degree"></span>
+          </a>
+    </div>
+    <!--weather-->
+</div>
+<div class="dropup" id="dropupMenu">
+        <button class="btn btn-default dropdown-toggle" type="button"  data-toggle="dropdown">
+        </button>
+        <ul class="dropdown-menu options-list" id="ulMenu">
+            <li><a id="toggleViewText" class="toggleText unselectable"> </a></li>
+            <li class="divider"></li>
+            <li id="tnDiv" class="displayNone"><a id="toggleTN" class="unselectable"> </a></li>
+            <li id="tnDivider" class="divider displayNone"></li>
+            <li id="bnDiv" class="displayNone"><a id="toggleBN" class="unselectable"> </a></li>
+            <li id="bnDivider" class="divider displayNone"></li>
+            <li id="wthrDiv" class="displayNone"><a id="toggleWthr" class="unselectable"> </a></li>
+            <li id="wthrDivider" class="divider displayNone"></li>
+            <li id="unitDiv" class="displayNone"><a id="toggleUnit" class="unselectable"></a></li>
+            <li id="unitDivider" class="divider displayNone"></li>
+            <li><a id="editButton" class="unselectable"> </a></li>
+            <li class="divider"></li>
+            <li><a id="feedBack" class="feedBackLink unselectable"> </a></li>
+        </ul>
+</div>
+<div id="tosPolicy">
+    <a id="gdprTos"></a><a id="gdprPolicy"></a>
+</div>
+
+</body>
+<script src='newtab.js'></script>
+</html>

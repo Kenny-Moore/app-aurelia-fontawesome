@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>newsyahoo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="newsyahoo" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-2-Copy-5" fill="#510098" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <path d="M43.79745,19 L19.98325,19 C18.55105,19 17.2506,20.1565714 17.0894,21.5787143 L15,40.1215714 L39.30555,40.1215714 L39.50395,38.36 L45.80625,38.36 L43.79745,19 L43.79745,19 Z M40.8571,22.0878571 L41.6755,30.0094286 L34.7284,30.0094286 L33.91,22.0878571 L40.8571,22.0878571 L40.8571,22.0878571 Z M17.7094,37.4831429 L19.46865,21.8788571 C19.526,21.6242857 19.7151,21.7075714 19.743,21.9558571 C19.75385,21.959 21.1535,37.4831429 21.1535,37.4831429 L17.7094,37.4831429 L17.7094,37.4831429 Z M23.494,22.0878571 L30.43955,22.0878571 L30.70925,24.7262857 L23.76525,24.7262857 L23.494,22.0878571 L23.494,22.0878571 Z M24.0396,27.3662857 L30.9836,27.3662857 L31.26105,30.0094286 L24.31395,30.0094286 L24.0396,27.3662857 L24.0396,27.3662857 Z M24.85955,35.2878571 L24.58985,32.6478571 L41.9514,32.6478571 L42.2211,35.2878571 L24.85955,35.2878571 L24.85955,35.2878571 Z" id="Imported-Layers-Copy-3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

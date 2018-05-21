@@ -1,0 +1,40 @@
+{
+   "background": {
+      "scripts": [ "BreakingNews.js", "TrackerEncoder.js", "Tracker.js", "Constants.js", "PhotoManager.js", "TrendingNow.js", "BrowserGap.js", "main.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "64": "icons/Y_NT64.png"
+      }
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "https://www.yahoo.com/favicon.ico",
+         "is_default": true,
+         "keyword": "Yahoo",
+         "name": "Yahoo Partner",
+         "search_url": "https://search.yahoo.com/search?p={searchTerms}&fr=yset_chr_syc_oracle&type=default",
+         "suggest_url": "https://search.yahoo.com/sugg/ie?output=fxjson&command={searchTerms}&nResults=10"
+      }
+   },
+   "chrome_url_overrides": {
+      "newtab": "newtab.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "notifyPresence.js" ],
+      "matches": [ "*://*.yahoo.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_newtab_chrome_extension_description__",
+   "icons": {
+      "128": "icons/Y_NT128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtlUV2V0jA2/vzyDjAKLDrQCE5LwLXAd7FJO/ki8DPRNNm33Jq2SLQku7X4uLf2Dbz8/gHCrYf9QXd+IUOAY2ZYqed2I+LrwBVvFIraNf4SxjQI8nErlmaVtfv1Sko9OUVuorO6qV+i53liF5iMi4lDDdFm0+6gm2ogUfpF5nbxpYsnzzByYUAs59sUprVFc6o+S5XOlmDeZny/3U7sVidN3ArlAJjIwdKOtwmXKxAKha/8/+awZ0GZ/f6a5uS/TkeZLRUmuU7rNfXChYlMouu7gJv8MIwIssxkecuWMZy4wXUsb9E80fueHe6oz3VIORY/KYwSqsNm+gTVcd9PBrMwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_newtab_chrome_extension_name__",
+   "permissions": [ "topSites" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.4"
+}

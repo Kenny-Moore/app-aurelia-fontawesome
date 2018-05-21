@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>adobe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="adobe" sketch:type="MSLayerGroup">
+            <rect id="circle" fill="#ED1C24" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <path d="M33.9098937,16.7246681 L45,16.7246681 L45,43.2753319 L33.9098937,16.7246681 Z M26.0964688,16.7246681 L15,16.7246681 L15,43.2753319 L26.0964688,16.7246681 Z M30.0044827,26.5078615 L37.0697367,43.2738858 L32.4404481,43.2738858 L30.3269451,37.9334445 L25.1540975,37.9334445 L30.0044827,26.5078615 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

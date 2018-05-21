@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>google-drive</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="44.7495857%" id="radialGradient-1">
+            <stop stop-color="#11AA62" offset="0%"></stop>
+            <stop stop-color="#089861" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="39.7420297%" id="radialGradient-2">
+            <stop stop-color="#4286FB" offset="0%"></stop>
+            <stop stop-color="#286EE6" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-3">
+            <stop stop-color="#FFD250" offset="0%"></stop>
+            <stop stop-color="#F6C337" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="61.7125392%" y1="100%" x2="100%" y2="69.5171097%" id="linearGradient-4">
+            <stop stop-color="#189F62" offset="0%"></stop>
+            <stop stop-color="#0E8D54" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.2957165%" y1="0%" x2="100%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#2868D1" offset="0%"></stop>
+            <stop stop-color="#3177E6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="18.5242261%" y1="100%" x2="0%" y2="0%" id="linearGradient-6">
+            <stop stop-color="#E2B637" offset="0%"></stop>
+            <stop stop-color="#F0C64C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="google-drive" sketch:type="MSLayerGroup">
+            <g sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2" fill="#F2F3F4" x="0" y="0" width="60" height="60" rx="80"></rect>
+                <g id="google_drive" transform="translate(9.000000, 10.000000)">
+                    <path d="M13.586762,5.8400893e-09 L0.161747167,24 L7.27862254,36.8333333 L20.8653846,13 L13.586762,5.8400893e-09 Z" id="Shape" fill="url(#radialGradient-1)"></path>
+                    <path d="M41.5690221,24.1666667 L14.455633,24.2061341 L7.27862255,36.8333328 L34.2903995,36.8333328 L41.5690221,24.1666667 Z" id="Shape" fill="url(#radialGradient-2)"></path>
+                    <path d="M27.98226,1.22009916e-08 L13.5867621,5.84013726e-09 L27.0117767,24.1666671 L41.5690218,24.1666671 L27.98226,1.22009916e-08 Z" id="Shape" fill="url(#radialGradient-3)"></path>
+                    <path d="M13.586762,5.84009108e-09 L17.6304413,18.4166667 L20.8653846,13 L13.586762,5.84009108e-09 Z" id="Shape" fill="url(#linearGradient-4)"></path>
+                    <path d="M20.7036375,24.2061341 L14.455633,24.2061341 L7.27862255,36.8333328 L20.7036375,24.2061341 Z" id="Shape" fill="url(#linearGradient-5)"></path>
+                    <path d="M23.9385808,18.3333333 L27.0117767,24.1666671 L41.5690218,24.1666671 L23.9385808,18.3333333 Z" id="Shape" fill="url(#linearGradient-6)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

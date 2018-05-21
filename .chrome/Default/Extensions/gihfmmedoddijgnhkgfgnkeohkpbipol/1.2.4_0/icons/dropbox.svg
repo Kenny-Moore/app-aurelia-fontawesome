@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>dropbox</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="dropbox" sketch:type="MSLayerGroup">
+            <rect id="circle" fill="#1480E2" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <path d="M13.6904762,32.6882277 L20.3162202,27.4294955 L30,33.3479948 L23.2958448,38.8783959 L13.6904762,32.6882277 Z M13.6904762,22.1901682 L23.2958448,16 L30,21.530401 L20.3162202,27.4294955 L13.6904762,22.1901682 Z M20.4142342,40.2949547 L20.4142342,38.1992238 L23.2958448,40.0620957 L30,34.5510996 L30,34.5122898 L30.0196028,34.5316947 L30.0392056,34.5122898 L30.0392056,34.5510996 L36.7629636,40.0620957 L39.6445742,38.1992238 L39.6445742,40.2949547 L30.0392056,45.9805951 L30.0392056,46 L30.0196028,45.9805951 L30,46 L30,45.9805951 L20.4142342,40.2949547 Z M30,33.3479948 L39.6837798,27.4294955 L46.3095238,32.6882277 L36.723758,38.8783959 L30,33.3479948 Z M30,21.530401 L36.723758,16 L46.3095238,22.1901682 L39.6837798,27.4294955 L30,21.530401 Z" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

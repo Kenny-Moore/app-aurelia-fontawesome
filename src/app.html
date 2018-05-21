@@ -1,0 +1,26 @@
+<template>
+  <require from="./styles.css"></require>
+
+  <nav class="navbar navbar-light bg-light fixed-top" role="navigation">
+    <a class="navbar-brand" href="#">
+        <label>
+          <font-awesome-icon icon.bind="[selectedIcon.prefix, selectedIcon.name]"></font-awesome-icon>
+          Select Contact Icon:
+          <select value.bind="selectedIcon">
+            <option model.bind="defaultIcon">Choose a Contact Icon...</option>
+            <option repeat.for="icon of icons"
+                    model.bind="icon">
+              ${icon.name} - ${iconType[icon.prefix]}
+            </option>
+          </select>
+        </label>
+    </a>
+  </nav>
+
+  <div class="container">
+    <div class="row">
+      <contact-list class="col-md-4"></contact-list>
+      <router-view class="col-md-8"></router-view>
+    </div>
+  </div>
+</template>

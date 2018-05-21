@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>oracleapp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="oracleapp" sketch:type="MSLayerGroup">
+            <rect id="circle" fill="#D72F32" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <g id="oracle_clr_rgb" transform="translate(10.000000, 18.000000)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                <path d="M12.6474943,23.9940858 C5.66440652,23.9940858 -3.55271368e-15,18.6269098 -3.55271368e-15,12 C-3.55271368e-15,5.37309019 5.66440652,1.42108547e-14 12.6474943,1.42108547e-14 L27.3525057,1.42108547e-14 C34.3387109,1.42108547e-14 40,5.37309019 40,12 C40,18.6269098 34.3387109,24 27.3525057,24 L12.6474943,23.9940858 L12.6474943,23.9940858 Z M27.0251734,19.7683588 C31.5485933,19.7683588 35.2115969,16.2907836 35.2115969,12 C35.2115969,7.70921636 31.5485933,4.2316412 27.0251734,4.2316412 L12.9748266,4.22868408 C8.45140675,4.22868408 4.78528564,7.70921636 4.78528564,12 C4.78528564,16.2907836 8.45140675,19.7683588 12.9748266,19.7683588 L27.0251734,19.7683588 L27.0251734,19.7683588 Z" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

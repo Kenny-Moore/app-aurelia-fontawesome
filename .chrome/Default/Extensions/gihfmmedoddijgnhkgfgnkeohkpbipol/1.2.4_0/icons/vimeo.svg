@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>vimeo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="vimeo" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-3" fill="#00DBFF" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="30"></rect>
+            <path d="M10.1390102,23.907601 C14.378585,20.0949226 18.1633987,13.4505129 22.5573091,14.8304508 C29.8389087,16.7194043 26.6928761,30.6807557 30.8306232,37.2079782 C36.4976731,34.0047982 40.1747392,27.2666132 38.6472188,23.7700676 C38.3056233,22.792923 38.7213882,20.3560649 34.0688574,22.4849901 C32.861248,23.0375718 32.9106325,20.8965775 33.1231542,20.6068182 C37.4306371,15.8626213 39.9181574,13.8837869 42.865686,14.0052525 C45.3444379,14.4202945 49.7036561,17.2120138 48.903312,23.9075989 C47.2443315,33.870412 32.649755,49.514999 27.7716219,48.9385295 C22.1868329,50.1733645 19.347562,32.4895787 15.1474956,24.1826657 L11.3040315,25.6732356 C9.72026766,25.9234003 9.93881534,24.9090612 10.1390102,23.907601 L10.1390102,23.907601 Z" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

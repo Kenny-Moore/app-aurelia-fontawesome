@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>turbotax</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.379452%" y1="99.1444006%" x2="50.379452%" y2="-0.846218542%" id="linearGradient-1">
+            <stop stop-color="#B9131A" offset="0%"></stop>
+            <stop stop-color="#CE171E" offset="19.7%"></stop>
+            <stop stop-color="#DF1A21" offset="42.9%"></stop>
+            <stop stop-color="#E91B23" offset="68.3%"></stop>
+            <stop stop-color="#EC1C24" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="turbotax" sketch:type="MSLayerGroup">
+            <rect id="circle" fill="#1560B5" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <g id="turbotax-logo" transform="translate(12.000000, 12.000000)" sketch:type="MSShapeGroup">
+                <circle id="Oval" fill="#FFFFFF" cx="17.834625" cy="18.3195" r="16.542"></circle>
+                <path d="M17.96625,0.95625 C8.36325,0.95625 0.57825,8.74125 0.57825,18.34425 C0.57825,27.94725 8.36325,35.7345 17.96625,35.7345 C27.5715,35.7345 35.355375,27.943875 35.355375,18.34425 C35.355375,8.739 27.570375,0.95625 17.96625,0.95625 L17.96625,0.95625 Z M14.887125,30.299625 C12.900375,26.8425 9.856125,22.345875 4.539375,18.595125 L8.105625,15.03225 C11.1735,17.155125 13.687875,20.3895 14.87025,22.4775 C18.304875,16.320375 23.4135,11.13525 28.90575,6.955875 C30.42,8.409375 31.644,10.157625 32.4855,12.11175 C26.325,16.4655 19.818,22.467375 14.887125,30.299625 L14.887125,30.299625 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

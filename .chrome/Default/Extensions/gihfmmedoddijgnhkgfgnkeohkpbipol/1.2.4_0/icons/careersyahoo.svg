@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>careersyahoo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="careersyahoo" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-2-Copy-7" fill="#510098" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <g id="Imported-Layers-Copy-12" transform="translate(15.000000, 13.000000)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                <path d="M16.9366,23.84055 L12.7485,23.84055 L12.7485,19.2727 C8.38215,18.972 4.16925,17.73665 0.34695,15.6457 L0.34695,30.80935 L29.3428,30.80935 L29.3428,15.6457 C25.51585,17.73665 21.30605,18.972 16.9366,19.2727 L16.9366,23.84055" id="Fill-1"></path>
+                <path d="M0.34695,9.0644 L0.34695,12.96885 C4.71175,15.6209 9.6919,17.0314 14.84565,17.0314 C19.9994,17.0314 24.9749,15.6209 29.3428,12.96885 L29.3428,9.0644 L0.34695,9.0644" id="Fill-2"></path>
+                <path d="M18.4246,0 L11.26825,0 C9.2455,0 7.5963,1.5655 7.5963,3.4875 L7.5963,7.2509 L10.47775,7.2509 L10.47775,3.4875 C10.47775,3.0907 10.8358,2.77295 11.26825,2.77295 L18.4246,2.77295 C18.8555,2.77295 19.2089,3.0907 19.2089,3.4875 L19.2089,7.2509 L22.09345,7.2509 L22.09345,3.4875 C22.09345,1.5655 20.4489,0 18.4246,0" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

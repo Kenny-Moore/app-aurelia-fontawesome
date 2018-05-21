@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>gamesyahoo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-icons-grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="gamesyahoo" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-2-Copy-7" fill="#510098" sketch:type="MSShapeGroup" x="0" y="0" width="60" height="60" rx="80"></rect>
+            <path d="M42.9922,22.5237 C42.9922,21.7424 42.9142,20.9832 42.7621,20.25 L39.7071,20.25 C39.724,20.0212 39.7422,19.795 39.7422,19.5649 C39.7422,18.6757 39.6135,17.8177 39.3899,17 L20.601,17 C20.38,17.8177 20.2487,18.6757 20.2487,19.5649 C20.2487,19.795 20.2669,20.0212 20.2838,20.25 L17.2288,20.25 C17.0793,20.9832 17,21.7424 17,22.5237 C17,28.2502 21.2393,32.9744 26.7461,33.7648 L26.7461,36.4935 L20.2487,39.7422 L20.2487,42.9909 L39.7422,42.9909 L39.7422,39.7422 L33.2448,36.4935 L33.2448,33.7648 C38.7529,32.9744 42.9922,28.2502 42.9922,22.5237 L42.9922,22.5237 Z M33.2448,28.7455 C36.0541,27.751 38.268,25.5124 39.2248,22.6849 L40.5521,22.6849 C40.4767,26.9827 37.3437,30.5369 33.2448,31.2948 L33.2448,28.7455 L33.2448,28.7455 Z M26.7461,31.2948 C22.6485,30.5369 19.5155,26.9827 19.4388,22.6849 L20.7674,22.6849 C21.7242,25.5124 23.9368,27.751 26.7461,28.7455 L26.7461,31.2948 L26.7461,31.2948 Z" id="Imported-Layers-Copy-7" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
