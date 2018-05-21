@@ -12,11 +12,11 @@ import { faWarnIfIconHtmlMissing } from './errors/warn-if-icon-html-missing';
 import { faWarnIfIconSpecMissing } from './errors/warn-if-icon-spec-missing';
 import { faNotFoundIconHtml } from './errors/not-found-icon-html';
 
-@customElement('font-awesome-icon')
+@customElement('fa-icon')
 @containerless
 @noView
 @inject(HTMLSanitizer, ViewCompiler, ViewSlot, Container, ViewResources)
-export class FontAwesomeIcon {
+export class FaIcon {
 	@bindable({changeHandler:'onChanges'}) border = false;
 	@bindable({changeHandler:'onChanges'}) fixedWidth = false;
 	@bindable({changeHandler:'onChanges'}) flip = null;
@@ -133,4 +133,4 @@ ValidationRules
 		.satisfies(value => [90, 180, 270].indexOf(value) > -1)
 	.ensure('rotation')
 		.satisfies(value => ['lg', 'xs', 'sm', '1x', '2x', '3x', '4x', '5x', '6x', '7x', '8x', '9x', '10x'].indexOf(value) > -1)
-	.on(FontAwesomeIcon);
+	.on(FaIcon);

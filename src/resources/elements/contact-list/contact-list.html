@@ -5,7 +5,7 @@
          <a route-href="route: contacts; params.bind: {id:contact.id}" click.delegate="$parent.select(contact)">
            <h4>${contact.firstName} ${contact.lastName}</h4>
            <p>
-             <font-awesome-icon icon="['${contact.id === $parent.selectedId ? 'fas' : 'fal'}', 'envelope']"></font-awesome-icon>
+             <fa-icon icon="['${contact.id === $parent.selectedId ? 'fas' : 'fal'}', 'envelope']"></fa-icon>
              ${contact.email}
             </p>
          </a>

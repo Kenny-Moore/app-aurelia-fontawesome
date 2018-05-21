@@ -6,9 +6,13 @@ import 'bootstrap/dist/css/bootstrap.css';
 import fontawesome from '@fortawesome/fontawesome';
 import light from '@fortawesome/fontawesome-pro-light';
 import solid from '@fortawesome/fontawesome-pro-solid';
+import regular from '@fortawesome/fontawesome-pro-regular';
+import brands from '@fortawesome/fontawesome-free-brands';
 
 fontawesome.library.add(light);
 fontawesome.library.add(solid);
+fontawesome.library.add(regular);
+fontawesome.library.add(brands);
 
 // remove out if you don't want a Promise polyfill (remove also from webpack.config.js)
 Bluebird.config({ warnings: { wForgottenReturn: false } });
