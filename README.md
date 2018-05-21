@@ -20,17 +20,9 @@ npm install aurelia-cli -g
 
 > Note: Always run commands from a Bash prompt. Depending on your environment, you may need to use `sudo` when executing npm global installs.
 
-## Application Setup
-
-Once you've setup your machine (or if it's been previous setup), you simply need to install the dependencies. From within the `app-aurelia-fontawesome` folder, execute the following command:
-
-```
-npm install
-```
-
 See [the CLI documentation](https://github.com/aurelia/cli) for other available commands or type `au help` on the command line.
 
-## Using Fontawesome Pro Version
+## Setting-Up Authentication - Fontawesome Pro Version
 This app was set up to be used with Fontawesome 5 Pro (I will create a test app using the Free Version later). Access to the Pro packages, require you to configure the @fortawesome scope to use their Pro NPM registry. You will need to create a `.npmrc` file in the root folder that contains the following:
 
   ```shell
@@ -39,6 +31,14 @@ This app was set up to be used with Fontawesome 5 Pro (I will create a test app 
   ```
 
 For more help: follow the instructions here: https://fontawesome.com/how-to-use/use-with-node-js to do this.
+
+## Application Setup
+
+Once you've setup your machine (or if it's been previous setup), you simply need to install the dependencies. From within the `app-aurelia-fontawesome` folder, execute the following command:
+
+```
+npm install
+```
 
 ## Running the App
 We should be able to run the application now, using au run --watch. Open a new browser tab and 
