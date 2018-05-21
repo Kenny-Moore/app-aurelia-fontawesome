@@ -1,25 +1,36 @@
 # app-aurelia-fontawesome
-Example App that Demonstrates an Unofficial Font Awesome 5 (Pro) Aurelia Component
+An [Aurelia](http://www.aurelia.io/) sample app that Demonstrates an Unofficial Font Awesome 5 (Pro) Aurelia Component
 
-## Getting Started
-To get the example app running, follow these steps:
+## Setting Up Your Machine
+This app is built on the Aurelia CLI, which has a couple of prerequisites you must install first. If you have previously setup your machine for the Aurelia CLI, you can skip this step.
 
-### Setting Up Your Machine
-This example app was built with the Aurelia CLI. Aurelia's documentation offers [a tutorial, ](https://aurelia.io/docs/tutorials/creating-a-contact-manager#setting-up-your-machine) that will you get started using Aurelia's CLI
-
-If you've already setup your machine with the CLI, you can skip to the next section. If not, then please install the following CLI prerequisites:
-
-* Install NodeJS version 4.x or above.
-** You can download it [here](https://nodejs.org/en/) .
+* Install NodeJS >= 4.x
+    * You can [download it here](https://nodejs.org/en/).
+* Install NPM 3.x
+    * Even though you may have the latest NodeJS, that doesn't mean you have the latest version of NPM. You can check your version with `npm -v`. If you need to update, run `npm install npm -g`.
 * Install a Git Client
-** Here's [a standard client](https://git-scm.com/) .
+    * Here's [a nice GUI client](https://desktop.github.com).
+    * Here's [a standard client](https://git-scm.com).
 
 Once you have the prerequisites installed, you can install the Aurelia CLI itself. From the command line, use npm to install the CLI globally:
-  ```shell
-  npm install aurelia-cli -g
-  ```
 
-### Using Fontawesome Pro Version
+```
+npm install aurelia-cli -g
+```
+
+> Note: Always run commands from a Bash prompt. Depending on your environment, you may need to use `sudo` when executing npm global installs.
+
+## Application Setup
+
+Once you've setup your machine (or if it's been previous setup), you simply need to install the dependencies. From within the `app-aurelia-fontawesome` folder, execute the following command:
+
+```
+npm install
+```
+
+See [the CLI documentation](https://github.com/aurelia/cli) for other available commands or type `au help` on the command line.
+
+## Using Fontawesome Pro Version
 This app was set up to be used with Fontawesome 5 Pro (I will create a test app using the Free Version later). Access to the Pro packages, require you to configure the @fortawesome scope to use their Pro NPM registry. You will need to create a `.npmrc` file in the root folder that contains the following:
 
   ```shell
