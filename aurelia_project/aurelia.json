@@ -1,5 +1,5 @@
 {
-  "name": "app-aureila-fontawesome",
+  "name": "app-aurelia-fontawesome",
   "type": "project:application",
   "bundler": {
     "id": "webpack",

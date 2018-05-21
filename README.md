@@ -36,7 +36,7 @@ We should be able to run the application now, using au run --watch. Open a new b
   ```
 Check the output for to find out where your project is running:
   ```shell
-  C:\app-aureila-fontawesome>au run --watch
+  C:\app-aurelia-fontawesome>au run --watch
   Starting 'configureEnvironment'...
   Finished 'configureEnvironment'
   Starting 'runWebpack'...
