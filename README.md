@@ -71,13 +71,12 @@ Shorthand that assumes a prefix of `fas`:
 Explicit prefix:
 
 ```javascript
-<fa-icon icon="['far', 'spinner']"></fa-icon>
-```
-or
-```javascript
 <fa-icon icon.bind="['far', 'spinner']"></fa-icon>
 ```
-(note that .bind is not necessary even though we are using an array)
+or *(note that .bind is not necessary even though we are using an array)*
+```javascript
+<fa-icon icon="['far', 'spinner']"></fa-icon>
+```
 
 
 Explicit icon definition (this is pseudo-code, see examples below for more detail):
