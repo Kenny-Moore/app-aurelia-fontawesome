@@ -167,6 +167,6 @@ Masking:
 Symbols:
 
 ```javascript
-<font-awesome-icon icon="edit" symbol ></fa-icon>
-<font-awesome-icon icon="edit" symbol="edit-icon" ></fa-icon>
+<fa-icon icon="edit" symbol ></fa-icon>
+<fa-icon icon="edit" symbol="edit-icon" ></fa-icon>
 ```
