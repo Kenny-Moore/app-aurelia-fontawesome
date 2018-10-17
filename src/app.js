@@ -12,6 +12,7 @@ export class App {
     { id: 5, name: 'user-secret', prefix: 'fal' },
     { id: 5, name: 'user-secret', prefix: 'far' }
   ];
+  bindToTest = [];
   defaultIcon = { name: 'users-cog', prefix: 'fal' };
   selectedIcon = null;
   iconType = {
@@ -28,6 +29,9 @@ export class App {
       { route: 'contacts/:id',  moduleId: PLATFORM.moduleName('contact-detail'), name:'contacts' }
     ]);
     this.router = router;
+
+  }
+  attached() {
 
   }
 }
